@@ -15,7 +15,7 @@ Método de ataque: 3 - Credential Harvester Attack Method
 
 Método de ataque: 2 - Site Cloner
 
-Obtendo o endereço da máquina: <enter> (para usar o ip da VM)
+Obtendo o endereço da máquina: (usar o ip da VM)
 
 URL para clone: http://www.facebook.com
 
