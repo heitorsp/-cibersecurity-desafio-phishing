@@ -5,11 +5,17 @@ Ferramentas - setoolkit rodando no Kali Linux
 Configurando o Phishing
 
 Iniciar a ferramenta setoolkit: setoolkit
+
 Tipo de ataque: 1 - Social-Engineering Attacks
+
 Vetor de ataque: 2 - Web Site Attack Vectors
+
 Método de ataque: 3 - Credential Harvester Attack Method 
+
 Método de ataque: 2 - Site Cloner
+
 Obtendo o endereço da máquina: <enter> (para usar o ip da VM)
+
 URL para clone: http://www.facebook.com
 
 Depois de criada a página falsa ela será aberta pelo ip da VM na máquina vítima.
